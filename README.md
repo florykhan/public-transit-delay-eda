@@ -96,14 +96,14 @@ public-transit-delay-eda/
   - `pandas`, `numpy` — data manipulation  
   - `matplotlib`, `seaborn` — visualizations  
   - Jupyter — notebooks
-- **Environment:** Jupyter Notebook / VS Code / Cursor
+- **Environment:** Jupyter Notebook / VS Code
 - **Version control:** Git + GitHub
 
 ---
 
 ## 🧾 License
 
-*(Add your license here, e.g. MIT, or “Data subject to provider terms.”)*
+MIT License, feel free to use and modify with attribution. See the [`LICENSE`](./LICENSE) file for full details.
 
 ---
 
