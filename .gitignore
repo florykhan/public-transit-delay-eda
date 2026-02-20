@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (keep raw/processed structure, ignore large or sensitive files)
+data/raw/*.csv
+data/raw/*.parquet
+data/raw/*.xlsx
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/*.xlsx
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports / figures (optional: uncomment to ignore generated outputs)
+# figures/
+# reports/
+
+# Logs and temp
+*.log
+*.tmp
+.cache/
