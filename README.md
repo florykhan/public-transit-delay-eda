@@ -72,6 +72,9 @@ Summary from the EDA (see `notebooks/02_eda.ipynb` for full plots and insights):
 | **Correlations** | Delay correlates weakly with traffic congestion and precipitation; no single numeric feature is strongly linear with delay; categoricals (route, weather) may help modeling. |
 | **On-time performance** | **~25%** of trips are on time (arrival delay ≤ 0); **~75%** are delayed. |
 
+![EDA visualizations](./public-transit-dealy.png)
+_Delay distribution, temporal patterns, and route-level analysis from the EDA notebooks_
+
 ---
 
 ## 🧰 Run Locally
